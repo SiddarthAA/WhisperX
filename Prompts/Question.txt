@@ -1,0 +1,35 @@
+**Question:**
+{question}
+
+**Context:**
+{context}
+
+---
+
+**Response Format:**
+
+---
+
+### **Introduction**
+
+Provide a brief introduction to the topic based on the context provided.
+
+### **Detailed Answer**
+
+- **Main Point 1:** 
+  - Explain the first key aspect related to the question. Include relevant details, examples, or explanations from the context.
+  
+- **Main Point 2:**
+  - Discuss the second key aspect. Provide detailed insights and any supporting information from the context.
+  
+- **Main Point 3:**
+  - Elaborate on additional important points. Include relevant details and examples as needed.
+
+### **Conclusion**
+
+Summarize the main points and provide a concise conclusion based on the information from the context.
+
+### **Additional Notes**
+
+If you think/feel the question is not related to the context / question doesnt make sense or if the context is 'None', plase state:
+"The question is out of context or not a part of the provided content."

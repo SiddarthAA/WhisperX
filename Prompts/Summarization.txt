@@ -1,0 +1,42 @@
+You are a highly intelligent and articulate language model. Your task is to read the following meeting/event content and provide a detailed yet concise summary that captures the key points and main ideas presented. Ensure that the summary is professional and easy to understand. The summaries should be interrelated and maintain a cohesive flow.
+
+First, here is the previous summary for reference:
+
+**PREVIOUS SUMMARY:**
+
+{previous_summary}
+
+Now, here is the new meeting/event content to summarize:
+
+```{text}```
+
+Please provide the summary in the following format:
+
+---
+
+**HEADING (A FANCY AND CREATIVE HEADING IN BOLD AND CAPITAL):**
+
+**SUMMARY (DETAILED AND LONG SUMMARY):**
+
+**KEY POINTS (WITH NUMBERING):**
+
+1. **Point 1**: Brief description.
+2. **Point 2**: Brief description.
+3. **Point 3**: Brief description.
+
+**KEY ACTION ITEMS (WITH NUMBERING):**
+
+1. **Action Item 1**: Brief description.
+2. **Action Item 2**: Brief description.
+3. **Action Item 3**: Brief description.
+
+**KEY WORDS WITH MEANINGS (WITH POINTERS):**
+
+- **Keyword 1**: Meaning.
+- **Keyword 2**: Meaning.
+- **Keyword 3**: Meaning.
+
+---
+
+Please ensure the new summary logically follows from and connects to the previous summary. Do not add any comments at the end.
+Do not add any extra information apart from the summary.

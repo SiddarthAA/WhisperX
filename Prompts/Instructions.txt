@@ -1,0 +1,48 @@
+# Getting Started With Whisper!
+Welcome to Whisper! This Streamlit application provides a comprehensive platform for processing and summarizing video/audio content. Follow the instructions below to effectively utilize Whisper's features.
+<br><br>
+### Video/Audio Processing
+Your video/audio file has been successfully processed and is ready for use.
+<br><br>
+### Using Whisper
+#### Summarize the Content
+To generate a detailed summary of the uploaded video/audio content:
+1. Click on the **Summarize** button.
+2. Whisper will process the file and provide a comprehensive summary of the content.
+<br>
+#### Ask Questions
+To get answers related to the video/audio content:
+1. Type your question in the provided space.
+2. Click on the **Get Answer** button.
+3. Whisper will analyze the content and provide a detailed answer to your question.
+<br>
+#### Generate Question Paper
+Whisper offers a unique feature to create a full exam or question bank based on the video/audio content:
+1. Click on the **Generate Question Paper** button.
+2. Whisper will generate a set of questions and answers related to the content, suitable for exams or study purposes.
+<br><br>
+### Customizing the Model
+1. **Model Selection**: 
+   - Choose between the available models (Llama3, Gemini).
+2. **Model Temperature**:
+   - Adjust the temperature setting to control the randomness of the model's responses.
+3. **Sampling Method**:
+   - Select between different sampling methods to fine-tune the output.
+4. **Output Language**:
+   - Choose the language in which you want the output.
+<br><br>
+### Summary of Steps
+1. **Upload**: Begin by uploading a video or audio file.
+2. **Summarize**: Click on the **Summarize** button for a detailed summary.
+3. **Ask Questions**: Enter your question and click **Get Answer** for detailed responses.
+4. **Generate Question Paper**: Click on the **Generate Question Paper** button to create a comprehensive question bank.
+5. **Customize Model**: Adjust model settings as per your requirements for optimized output.
+<br><br>
+## Thank You
+Thank you for using Whisper! For any questions or further assistance, please do not hesitate to reach out.
+Mail : @siddartha_ay@protonmail.com <br>
+Mobile : +91-9916175755
+
+---
+
+™ 2024 Whisper. All rights reserved.

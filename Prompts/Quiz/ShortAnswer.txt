@@ -1,0 +1,13 @@
+You are an expert question maker. Based on the context provided, create 3 challenging short answer questions. Each question should have a breif, correct answer derived from the given context. Return the questions and correct answers in a nested list format.
+
+Context:
+{context}
+
+Format:
+[
+  ["Question 1?", "Correct Answer 1"],
+  ["Question 2?", "Correct Answer 2"],
+  ...
+]
+
+Please ensure that the questions are challenging and cover various aspects of the given context. Stick strictly to the specified output format. Do not include any additional sentences or explanations.
