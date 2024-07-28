@@ -41,7 +41,7 @@ ollama pull llama3
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/whisperx.git
+   git clone https://github.com/SiddarthAA/whisperx.git
    cd whisperx
    ```
 
